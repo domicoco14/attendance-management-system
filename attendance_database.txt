@@ -1,0 +1,3 @@
+
+{'FULL NAME': ['Dominion Akinsola'], 'TIME IN': ['06:26 AM'], 'STATUS': ['EARLY']}
+{'FULL NAME': [], 'TIME IN': [], 'STATUS': []}
